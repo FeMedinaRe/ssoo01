@@ -2,6 +2,11 @@
 
 Este proyecto simula una carrera de autos donde cada auto corre en su propio hilo, avanzando una cantidad aleatoria de metros y esperando un tiempo aleatorio entre movimientos. La carrera finaliza cuando todos los autos han alcanzado la meta.
 
+### Integrantes:
+
+Andrés López
+Felipe Medina
+
 ## Instrucciones de Compilación y Ejecución
 
 ### Requisitos:
@@ -13,8 +18,3 @@ Para compilar el programa, simplemente usa el comando `make` en la terminal:
 
 ```bash
 make
-
-### Integrantes:
-
-Andrés López
-Felipe Medina

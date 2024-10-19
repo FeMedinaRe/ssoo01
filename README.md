@@ -13,3 +13,8 @@ Para compilar el programa, simplemente usa el comando `make` en la terminal:
 
 ```bash
 make
+
+### Integrantes:
+
+Andrés López
+Felipe Medina
